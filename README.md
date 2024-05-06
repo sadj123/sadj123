@@ -3,7 +3,7 @@
 
 - 📚 I’m currently persuing my degree on **Applied math and computer science.**
 
-- 👨‍💻 I’m currently learning **Cibersec and AI.**
+- 👨‍💻 I’m currently learning **Cybersec and AI.**
 
 - 📫 How to reach me **santiago.d.j@hotmail.com**
 
